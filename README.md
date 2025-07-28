@@ -14,4 +14,4 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Como Rodar
 
 **Para rodar** basta dar o comando:
-`npm run dev`.
+`npm install` e logo em seguida `npm run dev`
